@@ -12,6 +12,9 @@
  - Tensorflow Basic Tuturial: DeepLearningZeroToAll [hunkim](https://github.com/hunkim/DeepLearningZeroToAll)
  - Simple PyTorch Tutorials Zero to ALL! [hunkim](https://github.com/hunkim/PyTorchZeroToAll)
 
+### Data Set
+ - PCoE Datasets [Prognistic Data Set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository)
+
 ## Serverless
  - Serverless Chrome on AWS Lambda 인스타그램 주소 -> 리얼타임 스냅샷 [Swizec Teller](https://swizec.com/blog/serverless-chrome-on-aws-lambda-the-guide-works-in-2019-beyond/swizec/9024)
  - serverless, instagram hashtag crawler with lambda, dynamoDB [serverless-instagram-crawler](https://github.com/kimcoder/serverless-instagram-crawler)
